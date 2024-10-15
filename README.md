@@ -1,2 +1,3 @@
-# First-
+# First
 my first project
+author Abhas
